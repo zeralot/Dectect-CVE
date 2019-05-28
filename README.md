@@ -1,6 +1,6 @@
 # Detect CVE
 
-Toolkits that detect CVE of website
+Tool that detect CVE of website
 
 ## Requirements
 
@@ -43,11 +43,6 @@ $ python Scan.py \input\input_1.txt output_1.txt 2018
 OR CVE-2019-6340
 ```
 $ python Scan.py \input\input_1.txt output_1.txt 2019
-...
-```
-Droopescan
-```
-$ droopescan scan --check [inputfile_path] --outfile [outputfile_path] --option [option]
 ...
 ```
 
